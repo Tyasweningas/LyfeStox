@@ -1,1 +1,1 @@
-# LyfeStox
+# LyfeStox Mobile Application
